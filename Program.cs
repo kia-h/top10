@@ -17,6 +17,7 @@ namespace top10
             {
                 Console.WriteLine($"{ country.Population} : { country.Name}");
             }
+            Console.ReadKey();
         }
     }
 }
